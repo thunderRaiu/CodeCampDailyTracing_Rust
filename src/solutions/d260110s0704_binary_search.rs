@@ -1,3 +1,5 @@
+//! 题目：704. 二分查找
+//! 链接：https://leetcode.cn/problems/binary-search/
 pub struct Solution;
 
 impl Solution {

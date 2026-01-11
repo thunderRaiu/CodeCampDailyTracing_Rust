@@ -15,3 +15,4 @@ As a systems-level language, Rust delivers performance comparable to C++, which 
 Cargo provides a clean and powerful workflow for dependency management and testing. It makes the transition from isolated algorithm solutions to small experiments or projects very smooth.
 
 **Mindset shift**: Moving from a mostly imperative style to Rust’s hybrid paradigm (ownership, traits, iterators, and functional patterns) has been a meaningful shift in how I think about programming.
+
