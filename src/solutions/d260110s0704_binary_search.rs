@@ -18,9 +18,9 @@ impl Solution {
 #[cfg(test)]
 mod tests {
     use super::*;
-
+// cargo test --package code_camp_daily_tracing_rust --lib -- solutions::d260110s0704_binary_search::tests::test_d260110s0704 --exact --nocapture
     #[test]
-    fn test_704() {
+    fn test_d260110s0704() {
         assert_eq!(Solution::search(vec![-1, 0, 3, 5, 9, 12], 9), 4);
         assert_eq!(Solution::search(vec![-1, 0, 3, 5, 9, 12], 2), -1);
     }

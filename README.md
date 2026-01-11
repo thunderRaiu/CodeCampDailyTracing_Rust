@@ -16,3 +16,10 @@ Cargo provides a clean and powerful workflow for dependency management and testi
 
 **Mindset shift**: Moving from a mostly imperative style to Rust’s hybrid paradigm (ownership, traits, iterators, and functional patterns) has been a meaningful shift in how I think about programming.
 
+## 📈 每日打卡记录
+
+| 日期 | 题目 | 代码实现 | 学习笔记 | 状态 |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-01-10 | 704. 二分查找 | [d260111s0704_binary_search.rs](./src/solutions/d260111s0704_binary_search.rs) | [二分法细节](./notes/algorithm_summary.md#二分法) | ✅ |
+| 2026-01-10 | 704. 二分查找 | [d260111s0704_binary_search.rs](./src/solutions/d260111s0704_binary_search.rs) | [二分法细节](./notes/algorithm_summary.md#二分法) | ✅ |
+| 2026-01-12 | 027. 移除元素 | [s0027_remove_element.rs](./src/solutions/s0027_remove_element.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | 📅 |
