@@ -16,6 +16,22 @@ Cargo provides a clean and powerful workflow for dependency management and testi
 
 **Mindset shift**: Moving from a mostly imperative style to Rust’s hybrid paradigm (ownership, traits, iterators, and functional patterns) has been a meaningful shift in how I think about programming.
 
+## 文件结构与注释
+```
+CodeCampDailyTracing_Rust/
+├── src/
+│   ├── lib.rs          # 库文件
+│   ├── main.rs         # 默认的可执行文件 (cargo run)
+│   ├── bin/            # 其他独立的可执行文件
+│   │   ├── complexity_test.rs  # 复杂度测试
+│   │   └── tools.rs            # 其他辅助工具
+│   └── solutions/      # 算法题解库
+└── notes/
+     ├── algrithm_summary.md  # 算法笔记
+     └── rust.md              # rust语法笔记
+
+```
+
 ## 📈 每日打卡记录
 
 | 日期 | 题目 | 代码实现 | 学习笔记 | 状态 |
