@@ -2,4 +2,5 @@
 
 fn main(){
     print!("Hello, world!");
+    construct_binary_tree::main();
 }
