@@ -37,5 +37,5 @@ CodeCampDailyTracing_Rust/
 | 日期 | 题目 | 代码实现 | 学习笔记 | 状态 |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-01-10 | 704. 二分查找 | [d260111s0704_binary_search.rs](./src/solutions/d260111s0704_binary_search.rs) | [二分法细节](./notes/algorithm_summary.md#二分法) | ✅ |
-| 2026-01-10 | 704. 二分查找 | [d260111s0704_binary_search.rs](./src/solutions/d260111s0704_binary_search.rs) | [二分法细节](./notes/algorithm_summary.md#二分法) | ✅ |
-| 2026-01-12 | 027. 移除元素 | [s0027_remove_element.rs](./src/solutions/s0027_remove_element.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | 📅 |
+| 2026-01-13 | 027. 移除元素 | [d260113s0027_remove_element.rs](./src/solutions/d260113s0027_remove_element.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | ✅ |
+| 2026-01-13 | 977. 有序数组的平方 | [d260113s0977_sorted_squres.rs](./src/solutions/d260113s0997_sorted_squres.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | 📅 |
