@@ -38,4 +38,8 @@ CodeCampDailyTracing_Rust/
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-01-10 | 704. 二分查找 | [d260111s0704_binary_search.rs](./src/solutions/d260111s0704_binary_search.rs) | [二分法细节](./notes/algorithm_summary.md#二分法) | ✅ |
 | 2026-01-13 | 027. 移除元素 | [d260113s0027_remove_element.rs](./src/solutions/d260113s0027_remove_element.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | ✅ |
-| 2026-01-13 | 977. 有序数组的平方 | [d260113s0977_sorted_squres.rs](./src/solutions/d260113s0997_sorted_squres.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | 📅 |
+| 2026-01-13 | 977. 有序数组的平方 | [d260113s0977_sorted_squres.rs](./src/solutions/d260113s0997_sorted_squres.rs) | [双指针技巧](./notes/algorithm_summary.md#双指针) | ✅ |
+| 2026-01-14 | 209. 长度最小的子数组 | [d260114s0209_min_sub_array_len.rs](./src/solutions/d260114s0209_min_sub_array_len.rs) | [滑动窗口](./notes/algorithm_summary.md#滑动窗口) | ✅ |
+| 2026-01-15 | 59. 螺旋矩阵 II | [d260115s0059_generate_matrix.rs](./src/solutions/d260115s0059_generate_matrix.rs) | [循环不变量原则](./notes/algorithm_summary.md#边界条件循环不变量原则) | ✅ |
+| 2026-01-15 | 58. 区间和 |[d260115s1058_range_sum.rs](./src/solutions/d260115s1058_range_sum.rs) | [前缀和](./notes/algorithm_summary.md#前缀和) | ✅ |
+| 2026-01-15 | 44. 开发商购买土地 |[d260115s1044_perchaseland.rs](./src/solutions/d260115s1044_perchaseland.rs) | [前缀和的平面化](./notes/algorithm_summary.md#前缀和的平面化) | ✅ |
